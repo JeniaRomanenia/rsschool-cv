@@ -13,7 +13,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Roboto", sans-serif;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 400;
   color: #3d3b3c;
 }
@@ -26,7 +26,6 @@ body {
   max-width: 1440px;
   margin: 0 auto;
   min-height: 50px;
-  padding: 72px 104px;
 }
 
 .nav-list {
@@ -93,6 +92,20 @@ body {
 
 li {
   margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #3d3b3c;
+}
+
+.pre {
+  font-size: 16px;
+}
+
+.foto-projects {
+  height: 145px;
+  width: 300px;
 }
 
 .footer {
