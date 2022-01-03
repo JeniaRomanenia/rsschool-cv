@@ -1,7 +1,7 @@
 * {
+  box-sizing: border-box;
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
 }
 
 html {
@@ -13,4 +13,32 @@ body {
   flex-direction: column;
   justify-content: space-between;
   font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  color: #3d3b3c;
+}
+
+.header {
+  background-color: #edeae5;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  position: relative;
+  padding: 0 20px;
+  text-decoration: none;
+  line-height: 70px;
+  color: #3d3b3c;
 }
