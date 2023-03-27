@@ -1,1 +1,1 @@
-# rsschool-cv
+https://jeniaromanenia.github.io/rsschool-cv/cv
