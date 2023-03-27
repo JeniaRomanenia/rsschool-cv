@@ -1,1 +1,1 @@
-https://jeniaromanenia.github.io/rsschool-cv/cv
+https://jeniaromanenia.github.io/rsschool-cv/
